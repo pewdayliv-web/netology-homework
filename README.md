@@ -1,1 +1,3 @@
-# netology-homeworkHomework: Git
+# netology-homework
+
+Homework: Git
